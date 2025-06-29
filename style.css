@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    text-decoration: 0;
+}
+
+.header {
+    height: 70px;
+    background-color: rgb(177, 73, 73);
+}
+
+.main-nav ul li {
+    padding-left: 300px;
+}
